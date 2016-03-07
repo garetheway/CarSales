@@ -1,0 +1,9 @@
+\\nstu-uwe12\users$\g3-way\personal\visual studio 2010\Projects\CarSales\CarSales\bin\Release\CarSales.exe
+\\nstu-uwe12\users$\g3-way\personal\visual studio 2010\Projects\CarSales\CarSales\bin\Release\CarSales.pdb
+\\nstu-uwe12\users$\g3-way\personal\visual studio 2010\Projects\CarSales\CarSales\obj\x86\Release\CarSales.Form1.resources
+\\nstu-uwe12\users$\g3-way\personal\visual studio 2010\Projects\CarSales\CarSales\obj\x86\Release\CarSales.Login.resources
+\\nstu-uwe12\users$\g3-way\personal\visual studio 2010\Projects\CarSales\CarSales\obj\x86\Release\CarSales.MainSection.resources
+\\nstu-uwe12\users$\g3-way\personal\visual studio 2010\Projects\CarSales\CarSales\obj\x86\Release\CarSales.Properties.Resources.resources
+\\nstu-uwe12\users$\g3-way\personal\visual studio 2010\Projects\CarSales\CarSales\obj\x86\Release\CarSales.csproj.GenerateResource.Cache
+\\nstu-uwe12\users$\g3-way\personal\visual studio 2010\Projects\CarSales\CarSales\obj\x86\Release\CarSales.exe
+\\nstu-uwe12\users$\g3-way\personal\visual studio 2010\Projects\CarSales\CarSales\obj\x86\Release\CarSales.pdb
